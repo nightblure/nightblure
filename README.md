@@ -5,6 +5,6 @@
 [![CV Badge](https://img.shields.io/badge/CV-web-blue?style=flat&link=https://resume.io/r/UB5g54I6r/)](https://resume.io/r/UB5g54I6r) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=social&logo=telegram&link=https://t.me/nightblure)](https://t.me/nightblure) <p align='left'>
 
-My open source contributions:
+My contributions:
 * https://github.com/testcontainers/testcontainers-python/pull/606 (merged, release 4.6.0)
 * https://github.com/modern-python/that-depends/pull/53 (merged)
