@@ -7,5 +7,5 @@
 
 My contributions:
 * https://github.com/testcontainers/testcontainers-python/pull/606 (merged, release 4.6.0)
-* https://github.com/modern-python/that-depends/pull/53 (merged)
-* https://github.com/modern-python/that-depends/pull/54 (merged)
+* https://github.com/modern-python/that-depends/pull/53 (merged, release 1.14.0)
+* https://github.com/modern-python/that-depends/pull/54 (merged, release 1.14.0)
