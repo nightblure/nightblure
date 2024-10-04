@@ -11,3 +11,4 @@ My contributions:
 * https://github.com/modern-python/that-depends/pull/53 (merged, release 1.14.0)
 * https://github.com/modern-python/that-depends/pull/54 (merged, release 1.14.0)
 * https://github.com/modern-python/that-depends/pull/57 (merged, release 1.14.1)
+* https://github.com/milvus-io/pymilvus/issues/1987 (issue)
