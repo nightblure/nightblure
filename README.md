@@ -10,5 +10,5 @@ My contributions:
 * implement container for [Milvus](https://milvus.io/) - https://github.com/testcontainers/testcontainers-python/pull/606 (merged, release 4.6.0)
 * https://github.com/modern-python/that-depends/pull/53 (merged, release 1.14.0)
 * https://github.com/modern-python/that-depends/pull/54 (merged, release 1.14.0)
-* https://github.com/modern-python/that-depends/pull/57 (merged, release 1.14.1)
-* https://github.com/milvus-io/pymilvus/issues/1987 (issue)
+* Insert method of MilvusClient doesnt support partitions - https://github.com/modern-python/that-depends/pull/57 (merged, release 1.14.1)
+* Error when creating a lock file with disabled package management mode in UV - https://github.com/astral-sh/uv/issues/7930 https://github.com/milvus-io/pymilvus/issues/1987
