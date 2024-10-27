@@ -18,4 +18,4 @@
 **Issues**:
 * Attr getter works only with zero nested level - https://github.com/modern-python/that-depends/issues/56
 * Insert method of MilvusClient doesnt support partitions - https://github.com/modern-python/that-depends/pull/57
-* Error when creating a lock file with disabled package management mode in UV - https://github.com/astral-sh/uv/issues/7930 https://github.com/milvus-io/pymilvus/issues/1987
+* Error when creating a lock file with disabled package management mode in UV - https://github.com/astral-sh/uv/issues/7930
