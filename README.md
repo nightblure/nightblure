@@ -8,7 +8,7 @@
 ---
 
 **My contributions**:
-* developer of [injection](https://github.com/nightblure/injection)
+* developer of package for dependency injection - [injection](https://github.com/nightblure/injection)
 * Make attrgetter extract value from any nesting level of objects - https://github.com/modern-python/that-depends/pull/57 (merged, release 1.14.1)
 * implement container for [Milvus](https://milvus.io/) - https://github.com/testcontainers/testcontainers-python/pull/606 (merged, release 4.6.0)
 * Overriding multiple providers with context manager - https://github.com/modern-python/that-depends/pull/53 (merged, release 1.14.0)
