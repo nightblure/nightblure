@@ -19,3 +19,4 @@
 * Attr getter works only with zero nested level - https://github.com/modern-python/that-depends/issues/56
 * Insert method of MilvusClient doesnt support partitions - https://github.com/modern-python/that-depends/pull/57
 * Error when creating a lock file with disabled package management mode in UV - https://github.com/astral-sh/uv/issues/7930
+* Provider overriding does not works with Litestar - https://github.com/modern-python/that-depends/issues/119
