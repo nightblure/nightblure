@@ -9,14 +9,17 @@
 
 **My contributions**:
 * developer of package for dependency injection - [injection](https://github.com/nightblure/injection)
-* Make attrgetter extract value from any nesting level of objects - https://github.com/modern-python/that-depends/pull/57 (merged, release 1.14.1)
+* make attrgetter extract value from any nesting level of objects - https://github.com/modern-python/that-depends/pull/57 (merged, release 1.14.1)
 * implement container for [Milvus](https://milvus.io/) - https://github.com/testcontainers/testcontainers-python/pull/606 (merged, release 4.6.0)
-* Overriding multiple providers with context manager - https://github.com/modern-python/that-depends/pull/53 (merged, release 1.14.0)
-* Testing section and overriding features (docs) - https://github.com/modern-python/that-depends/pull/54 (merged, release 1.14.0)
+* add dialect parameter instead of hardcoded mysql dialect - https://github.com/testcontainers/testcontainers-python/pull/739
+* overriding multiple providers with context manager - https://github.com/modern-python/that-depends/pull/53 (merged, release 1.14.0)
+* testing section and overriding features (docs) - https://github.com/modern-python/that-depends/pull/54 (merged, release 1.14.0)
 
 
-**Issues**:
-* Attr getter works only with zero nested level - https://github.com/modern-python/that-depends/issues/56
-* Insert method of MilvusClient doesnt support partitions - https://github.com/modern-python/that-depends/pull/57
-* Error when creating a lock file with disabled package management mode in UV - https://github.com/astral-sh/uv/issues/7930
-* Provider overriding does not works with Litestar - https://github.com/modern-python/that-depends/issues/119
+**Bug reports**:
+* error when creating a lock file with disabled package management mode in uv - https://github.com/astral-sh/uv/issues/7930
+* hardcoded dialect/driver parameter in connection url in mysql container - https://github.com/testcontainers/testcontainers-python/issues/727
+* attr getter works only with zero nested level - https://github.com/modern-python/that-depends/issues/56
+* insert method of MilvusClient doesnt support partitions - https://github.com/modern-python/that-depends/pull/57
+* provider overriding does not works with Litestar - https://github.com/modern-python/that-depends/issues/119
+* overriding does not work with non-primitive type objects in Litestar - https://github.com/modern-python/that-depends/issues/122
