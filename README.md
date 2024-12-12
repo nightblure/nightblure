@@ -9,11 +9,11 @@
 
 **My contributions**:
 * developer of package for dependency injection - [injection](https://github.com/nightblure/injection)
-* make attrgetter extract value from any nesting level of objects - https://github.com/modern-python/that-depends/pull/57 (merged, release 1.14.1)
-* implement container for [Milvus](https://milvus.io/) - https://github.com/testcontainers/testcontainers-python/pull/606 (merged, release 4.6.0)
+* make attrgetter extract value from any nesting level of objects - https://github.com/modern-python/that-depends/pull/57
+* implement container for [Milvus](https://milvus.io/) - https://github.com/testcontainers/testcontainers-python/pull/606
 * add dialect parameter instead of hardcoded mysql dialect - https://github.com/testcontainers/testcontainers-python/pull/739
-* overriding multiple providers with context manager - https://github.com/modern-python/that-depends/pull/53 (merged, release 1.14.0)
-* testing section and overriding features (docs) - https://github.com/modern-python/that-depends/pull/54 (merged, release 1.14.0)
+* overriding multiple providers with context manager - https://github.com/modern-python/that-depends/pull/53
+* testing section and overriding features (docs) - https://github.com/modern-python/that-depends/pull/54
 
 
 **Bug reports**:
