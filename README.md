@@ -14,6 +14,7 @@
 * add dialect parameter instead of hardcoded mysql dialect - https://github.com/testcontainers/testcontainers-python/pull/739
 * overriding multiple providers with context manager - https://github.com/modern-python/that-depends/pull/53
 * testing section and overriding features (docs) - https://github.com/modern-python/that-depends/pull/54
+* migrate litestar-fullstack from PDM to uv - https://github.com/litestar-org/litestar-fullstack/pull/187
 
 
 **Bug reports**:
