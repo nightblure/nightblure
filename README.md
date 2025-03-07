@@ -21,6 +21,6 @@
 * error when creating a lock file with disabled package management mode in uv - https://github.com/astral-sh/uv/issues/7930
 * hardcoded dialect/driver parameter in connection url in mysql container - https://github.com/testcontainers/testcontainers-python/issues/727
 * attr getter works only with zero nested level - https://github.com/modern-python/that-depends/issues/56
-* insert method of MilvusClient doesnt support partitions - https://github.com/modern-python/that-depends/pull/57
+* insert method of MilvusClient doesnt support partitions - https://github.com/milvus-io/pymilvus/issues/1987
 * provider overriding does not works with Litestar - https://github.com/modern-python/that-depends/issues/119
 * overriding does not work with non-primitive type objects in Litestar - https://github.com/modern-python/that-depends/issues/122
