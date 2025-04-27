@@ -15,6 +15,8 @@
 * overriding multiple providers with context manager - https://github.com/modern-python/that-depends/pull/53
 * testing section and overriding features (docs) - https://github.com/modern-python/that-depends/pull/54
 * migrate litestar-fullstack from PDM to uv - https://github.com/litestar-org/litestar-fullstack/pull/187
+* conversion to dictionary depending on pydantic version - https://github.com/0b01001001/spectree/pull/408
+* perf (flask): get annotations when no validation error and use cache for type hints - https://github.com/0b01001001/spectree/pull/412
 
 
 **Bug reports**:
